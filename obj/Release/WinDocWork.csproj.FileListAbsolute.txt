@@ -1,0 +1,15 @@
+D:\DipProject\WinDocWork\bin\Release\Logotip.png
+D:\DipProject\WinDocWork\bin\Release\blank-zayavleniya-na-otpusk.docx
+D:\DipProject\WinDocWork\bin\Release\blank-zayavleniya-o-priyome-na-rabotu.docx
+D:\DipProject\WinDocWork\bin\Release\blank_zayavleniya_ob_uvolnenii_po_sobstvennomu_gelaniyu.docx
+D:\DipProject\WinDocWork\bin\Release\WinDocWork.exe.config
+D:\DipProject\WinDocWork\bin\Release\WinDocWork.exe
+D:\DipProject\WinDocWork\bin\Release\WinDocWork.pdb
+D:\DipProject\WinDocWork\obj\Release\WinDocWork.csproj.AssemblyReference.cache
+D:\DipProject\WinDocWork\obj\Release\WinDocWork.csproj.ResolveComReference.cache
+D:\DipProject\WinDocWork\obj\Release\WinDocWork.Form1.resources
+D:\DipProject\WinDocWork\obj\Release\WinDocWork.Properties.Resources.resources
+D:\DipProject\WinDocWork\obj\Release\WinDocWork.csproj.GenerateResource.cache
+D:\DipProject\WinDocWork\obj\Release\WinDocWork.csproj.CoreCompileInputs.cache
+D:\DipProject\WinDocWork\obj\Release\WinDocWork.exe
+D:\DipProject\WinDocWork\obj\Release\WinDocWork.pdb

@@ -1,0 +1,15 @@
+D:\DipProject\WinDocWork\bin\Debug\blank-zayavleniya-na-otpusk.docx
+D:\DipProject\WinDocWork\bin\Debug\blank-zayavleniya-o-priyome-na-rabotu.docx
+D:\DipProject\WinDocWork\bin\Debug\blank_zayavleniya_ob_uvolnenii_po_sobstvennomu_gelaniyu.docx
+D:\DipProject\WinDocWork\bin\Debug\WinDocWork.exe.config
+D:\DipProject\WinDocWork\bin\Debug\WinDocWork.exe
+D:\DipProject\WinDocWork\bin\Debug\WinDocWork.pdb
+D:\DipProject\WinDocWork\obj\Debug\WinDocWork.csproj.AssemblyReference.cache
+D:\DipProject\WinDocWork\obj\Debug\WinDocWork.csproj.ResolveComReference.cache
+D:\DipProject\WinDocWork\obj\Debug\WinDocWork.Form1.resources
+D:\DipProject\WinDocWork\obj\Debug\WinDocWork.Properties.Resources.resources
+D:\DipProject\WinDocWork\obj\Debug\WinDocWork.csproj.GenerateResource.cache
+D:\DipProject\WinDocWork\obj\Debug\WinDocWork.csproj.CoreCompileInputs.cache
+D:\DipProject\WinDocWork\obj\Debug\WinDocWork.exe
+D:\DipProject\WinDocWork\obj\Debug\WinDocWork.pdb
+D:\DipProject\WinDocWork\bin\Debug\Logotip.png
